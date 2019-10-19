@@ -16,7 +16,7 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
-    <gap:plugin name="com.google.cordova.admob" source="plugins.cordova.io"/>
+    <plugin name="com.google.cordova.admob" source="plugins.cordova.io"/>
     <platform name="android">
         <allow-intent href="market:*" />
     </platform>
